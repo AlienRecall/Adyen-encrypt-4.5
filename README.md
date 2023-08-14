@@ -80,6 +80,10 @@ Please note that you need to replace `adyen key` with the actual website's Adyen
 
 We appreciate any contributions you might make. Please feel free to submit a pull request, issue, or suggestion.
 
+## Credits
+
+This is a golang version of [Levi's gist](https://gist.github.com/levi-nz/da0690e204c6150207bd0b52a0897b61)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
